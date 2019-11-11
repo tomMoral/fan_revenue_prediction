@@ -12,3 +12,6 @@ category_encoders
 spacy
 https://api.github.com/repos/paris-saclay-cds/ramp-workflow/zipball/master
 recordlinkage
+geopy
+gensim
+fuzzywuzzy[speedup]

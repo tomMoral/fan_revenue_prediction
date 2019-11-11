@@ -15,6 +15,9 @@ dependencies:
   - xgboost
   - category_encoders
   - spacy
+  - geopy
+  - gensim
   - pip:
       - https://api.github.com/repos/paris-saclay-cds/ramp-workflow/zipball/master
       - recordlinkage
+      - fuzzywuzzy[speedup]
