@@ -15,3 +15,5 @@ recordlinkage
 geopy
 gensim
 fuzzywuzzy[speedup]
+pgeocode
+unidecode
