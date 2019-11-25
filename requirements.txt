@@ -17,3 +17,4 @@ gensim
 fuzzywuzzy[speedup]
 pgeocode
 unidecode
+nltk
