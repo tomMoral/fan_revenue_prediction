@@ -18,3 +18,4 @@ fuzzywuzzy[speedup]
 pgeocode
 unidecode
 nltk
+dirty_cat

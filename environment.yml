@@ -24,3 +24,4 @@ dependencies:
       - recordlinkage
       - fuzzywuzzy[speedup]
       - pgeocode
+      - dirty_cat
